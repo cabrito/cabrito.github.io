@@ -8,4 +8,4 @@ The following are course materials related to teachings I have done. For the mom
 
 # MATH 1550
 
-Coming soon!
+[PowerPoint lectures](https://github.com/cabrito/cabrito.github.io/tree/master/lectures)
