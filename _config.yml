@@ -8,4 +8,15 @@ description: >
   "An assortment of my professional works such as teachings and technical write-ups."
 github_username: cabrito
 rss: rss
-  
+
+show_excerpts: false
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+header_pages:
+ - README.md
+ 
+ minima:
+ date_format: "%b %-d, %Y"
