@@ -1,3 +1,7 @@
+# Build settings
+markdown: kramdown
+theme: minima
+
 title: "Cabrito's Blog"
 author: C. Brito
 # email: your-email@domain.com
@@ -39,10 +43,6 @@ date_format: "%b %-d, %Y"
 # this and add the path to the pages in order as they should show up
  header_pages:
  - README.md
-
-# Build settings
-markdown: kramdown
-theme: minima
 
 plugins:
  - jekyll-feed
