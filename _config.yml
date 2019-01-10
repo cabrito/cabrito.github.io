@@ -1,10 +1,10 @@
-title: Test
+title: "Cabrito's Blog"
 author: C. Brito
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Where you can find much of my professional works.
+  Where you can find some of my professional works.
 # social links
-# twitter_username: I see you trying to snoop. ( ͡° ͜ʖ ͡°)
+twitter_username: I see you trying to snoop ( ͡° ͜ʖ ͡°)
 github_username:  cabrito
 rss: rss
 # dribbble_username: jekyll
@@ -38,7 +38,7 @@ date_format: "%b %-d, %Y"
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
  header_pages:
- - about.md
+ - README.md
 
 # Build settings
 markdown: kramdown
