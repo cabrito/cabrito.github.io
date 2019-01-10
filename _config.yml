@@ -4,3 +4,8 @@ theme: minima
 
 title: "Professional Works"
 author: "Casey Brito"
+description: >
+  "An assortment of my professional works such as teachings and technical write-ups."
+github_username: cabrito
+rss: rss
+  
