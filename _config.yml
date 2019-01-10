@@ -1,4 +1,6 @@
 # Build settings
+markdown: kramdown
+theme: minima
+
 title: Teachings
 author: cabrito
-theme: minima
