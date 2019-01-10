@@ -1,6 +1,7 @@
 # Build settings
-markdown: kramdown
 theme: minima
+markdown: kramdown
+
 
 title: "Cabrito's Blog"
 author: C. Brito
