@@ -18,5 +18,5 @@ plugins:
 header_pages:
  - README.md
  
- minima:
- date_format: "%b %-d, %Y"
+minima:
+date_format: "%b %-d, %Y"
