@@ -16,7 +16,7 @@ plugins:
  - jekyll-seo-tag
 
 header_pages:
- - README.md
+ - teachings.md
  
 minima:
 date_format: "%b %-d, %Y"
